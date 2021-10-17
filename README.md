@@ -1,5 +1,9 @@
 # Midterm project
 
+## В проекте реализован магазин для покупки кошек
+
+Магазин доступен по ссылке https://kirillsolovyev.github.io/blockchain-mid/
+
 ## Project setup
 ```
 yarn install
