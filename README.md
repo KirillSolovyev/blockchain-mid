@@ -1,4 +1,4 @@
-# midterm
+# Midterm project
 
 ## Project setup
 ```

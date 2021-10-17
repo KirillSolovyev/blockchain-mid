@@ -1,4 +1,7 @@
 module.exports = {
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/cat-shop/'
+    : '/',
   chainWebpack: config => {
     config
     .plugin('html')
